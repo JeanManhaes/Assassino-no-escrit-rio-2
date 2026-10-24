@@ -1,0 +1,6 @@
+{
+  "name": "Office Impostor 3D - Assassino no Escritório",
+  "description": "Jogo 3D de suspense e dedução em primeira pessoa. Identifique o assassino disfarçado entre seus funcionários em 2 minutos usando itens de escritório como armas e física realista com ragdoll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
